@@ -1,0 +1,1 @@
+This is my first odin project. I will use the skills of images, links, lists and other html elements. 
